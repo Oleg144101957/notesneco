@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NotesNeco</string>
+    <string name="empty">Empty</string>
+    <string name="add_note">Add Note</string>
+    <string name="title">Title</string>
+    <string name="enter_text_of_your_note">Enter Here Text of Your Note</string>
+    <string name="save_note">Save note</string>
+    <string name="add_photo">Add Photo</string>
+</resources>
